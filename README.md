@@ -25,6 +25,9 @@ This analysis uses sample datasets of customer and sales data to uncover trends,
 ## Prerequisites:
 - Python 3.12+: with libraries (pandas, numpy, matplotlib, seaborn, plotly, scipy)
 - Jupyter notebook
+## Running Code on Google Colab
+
+[Thanh Xuyen, Nguyen - Google Colab](https://drive.google.com/file/d/1PBEWV2AvE5UqhhhfCkdNZ7I0Diw-Kw4R/view?usp=sharing)
 
 ## Visualizations:
 
