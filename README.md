@@ -124,8 +124,8 @@ Overall, the discount analysis reveals significant variations in discount strate
 The ship modes with the highest average discounts are First Class (16.46%) and Standard Class (16.00%), while Second Class has the lowest average discount (13.89%). The ANOVA test confirms that these differences are statistically significant (p-value < 0.05). This insight can help optimize shipping strategies to balance cost and customer satisfaction.
 - The first class and standard class ship modes offer higher discounts, possibly to attract customers and offset higher shipping costs.
 - Negative profit items like Tables, Supplies, and Books should be carefully analyzed to identify reasons for losses. Consider strategies such as price adjustments, cost reductions, or discontinuation if profitability cannot be improved. Review pricing strategies, source alternatives, and marketing approaches to mitigate losses.
-- High profit-low quantity items like Copiers should be prioritized for marketing and sales efforts to maximize revenue.
-- High profit-high quantity items like Paper, Accessories, Phones, and Binders should be stocked adequately to meet demand and capitalize on their profitability. Prioritize promotions, discounts, and advertising campaigns. Ensure sufficient inventory levels to avoid stockouts, and explore cross-selling opportunities with related products.
+- High-profit, low-quantity items like Copiers should be prioritized for marketing and sales efforts to maximize revenue.
+- High-profit, high-quantity items like Paper, Accessories, Phones, and Binders should be stocked adequately to meet demand and capitalize on their profitability. Prioritize promotions, discounts, and advertising campaigns. Ensure sufficient inventory levels to avoid stockouts, and explore cross-selling opportunities with related products.
 - Mid-Tier items like Chairs, Furnishings, Appliances, and Storage should be monitored for sales trends and adjusted inventory levels accordingly. Consider bundling with high-profit items to boost sales.
 
 ```
