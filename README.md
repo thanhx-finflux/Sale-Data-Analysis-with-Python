@@ -129,7 +129,8 @@ The ship modes with the highest average discounts are First Class (16.46%) and S
 - Mid-Tier items like Chairs, Furnishings, Appliances, and Storage should be monitored for sales trends and adjusted inventory levels accordingly. Consider bundling with high-profit items to boost sales.
 
 ```
-Contact
+### Contact
+
 Thanh Xuyen, Nguyen
 
 LinkedIn: [xuyen-thanh-nguyen-0518](https://www.linkedin.com/in/xuyen-thanh-nguyen-0518/)
